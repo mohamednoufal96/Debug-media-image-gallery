@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+}
+
+section{
+    width: 25%;
+}
+
+
+img{
+    width: 100%;
+
+}
