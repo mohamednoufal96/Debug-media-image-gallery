@@ -1,1 +1,2 @@
-This is a Image gallery website
+-This is a simple demonstration of using the css flexbox
+-Image gallery is created using css flexbox property
